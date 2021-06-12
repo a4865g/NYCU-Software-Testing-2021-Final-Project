@@ -8,7 +8,7 @@
 
 - IntelliJ IDEA & Junit 5
 
-  ## Group member
+## Group member
 
-  ***[@aesphor](https://github.com/aesophor)***, ***[@p870613](https://github.com/p870613)***, ***[@wimterdom](https://github.com/wimterdom)***
+***[@aesphor](https://github.com/aesophor)***, ***[@p870613](https://github.com/p870613)***, ***[@wimterdom](https://github.com/wimterdom)***
 
